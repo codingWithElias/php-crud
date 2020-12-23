@@ -4,7 +4,7 @@ version: 1.0.0
 
 ## Full Tutorial 1-4
 
-[On Youtube](https://youtu.be/QxZxHUf7c_0)
+[On Youtube](https://youtu.be/FxSLIvmnwzY)
 
 ## Authors
 
